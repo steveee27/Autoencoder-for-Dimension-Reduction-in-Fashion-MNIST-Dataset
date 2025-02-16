@@ -1,4 +1,4 @@
-# Dimension Reduction with Autoencoder on Fashion MNIST Dataset
+# Autoencoder for Dimension Reduction in Fashion MNIST Dataset
 
 ## Table of Contents
 - [Project Overview](#project-overview)
